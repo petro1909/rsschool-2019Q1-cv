@@ -33,4 +33,13 @@ My goal is  become as a person who can work in a team and solve complex problems
 ## Experience
 My main experience is projects on Codecademy and HTMLacademy such as Fashion Blog, Wine festival Schedule, Architecture Blog and so on.
 
+## English level
+* B1 (Intermediate English) 
+* English at school from first  to last class
+* English courses at university for for mounth
+* [https://lingualeo.com/ru/profile](Lingualeo)
+* [https://www.duolingo.com/petyachirich](Duolingo)
+* A bit of practice in France about a month  and about two weeks in Bulgaria  
+
+
 
