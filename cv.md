@@ -19,6 +19,7 @@ My goal is  become as a person who can work in a team and solve complex problems
 1. Pyton beginner;
 2. C# beginner;
 3. C++ beginner.
+
 ### Other technologies: 
 1. HTML;
 2. CSS.
