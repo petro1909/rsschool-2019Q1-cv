@@ -1,0 +1,90 @@
+html {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  width: 1024px;
+  margin: 0;
+  padding: 0;
+}
+
+.name {
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: #2F4F4F;
+}
+
+.name h1 {
+  padding-top: 40px;
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  text-transform: uppercase;
+}
+
+.name img {
+  margin: 0 auto;
+  border: 1px solid #000000;
+}
+
+.summary, .experiance {
+  margin: 0;
+  padding-bottom: 20px;
+  background-color: #5F9EA0;
+}
+
+h3 {
+  margin: 0;
+  padding-top: 40px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  text-transform: uppercase; 
+}
+
+.summary p, .experiance p {
+  margin: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.skills, .english-level {
+  margin: 0;
+  padding-bottom: 20px;
+  background-color: #2F4F4F;
+}
+
+.slills-description {
+  padding-left: 40px;
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+.education, .contacts {
+  margin: 0;
+  padding-bottom: 20px;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.education li, .english-level li {
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+.english-level a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.contacts a {
+  font-family: Verdana, Tahoma, sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.contacts a:hover,.english-level a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
