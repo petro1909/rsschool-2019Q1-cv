@@ -5,42 +5,40 @@ html {
 
 body {
   width: 1024px;
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 .name {
   text-align: center;
-  background-color: #2F4F4F;
   padding-bottom: 20px;
+  background-color: #2F4F4F;
 }
 
 .name h1 {
-  margin-left: 50px;
-  text-transform: uppercase;
-  font-family: "Courier New", Courier, monospace;
-  margin: 0;
   padding-top: 40px;
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  text-transform: uppercase;
 }
 
 .name img {
-  margin-left: 50px;
-  border: 1px solid #000000;
   margin: 0 auto;
+  border: 1px solid #000000;
 }
 
 .summary, .experiance {
-  background-color: #5F9EA0;
   margin: 0;
   padding-bottom: 20px;
+  background-color: #5F9EA0;
 }
 
 h3 {
   margin: 0;
   padding-top: 40px;
   font-family: "Courier New", Courier, monospace;
-  text-transform: uppercase;
   text-align: center;
+  text-transform: uppercase; 
 }
 
 .summary p, .experiance p {
@@ -49,9 +47,9 @@ h3 {
 }
 
 .skills, .english-level {
-  background-color: #2F4F4F;
   margin: 0;
   padding-bottom: 20px;
+  background-color: #2F4F4F;
 }
 
 .slills-description {
@@ -59,24 +57,20 @@ h3 {
   font-family: Verdana, Tahoma, sans-serif;
 }
 
-.education, .contacts{
-  background-color: #000000;
+.education, .contacts {
   margin: 0;
   padding-bottom: 20px;
   color: #ffffff;
+  background-color: #000000;
 }
 
-.education li {
-  font-family: Verdana, Tahoma, sans-serif;
-}
-
-.english-level li {
+.education li, .english-level li {
   font-family: Verdana, Tahoma, sans-serif;
 }
 
 .english-level a {
-  text-decoration: none;
   color: #000000;
+  text-decoration: none;
 }
 
 .contacts a {
